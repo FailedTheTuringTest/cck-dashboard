@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async function () {
     // --- CONFIGURATION ---
-    const ALPHA_VANTAGE_API_KEY = 'KPWHMKBFE1SMAA35';
+    const ALPHA_VANTAGE_API_KEY = USER_API_KEY;
     const stockSymbols = ['AAPL', 'MSFT', 'AMZN', 'NVDA', 'GOOGL', 'TSLA', 'JPM', 'V', 'WMT'];
 
     // --- 1. CLOCK AND DATE ---
